@@ -45,7 +45,7 @@ Return strictly valid JSON only in this format:
 
 Do not add greetings.
 Do not add extra text.
-Do not use markdown.
+Do not use markdown. 
 
 Question:
 {data.question}
